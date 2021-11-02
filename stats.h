@@ -20,6 +20,8 @@
  */
 #ifndef __STATS_H__
 #define __STATS_H__
+#include <stdio.h>
+#include <stdlib.h>
 
 /* Add Your Declarations and Function Comments here */ 
 
