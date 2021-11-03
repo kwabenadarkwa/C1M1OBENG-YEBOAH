@@ -26,6 +26,13 @@
 
 /* Size of the Data Set */
 #define SIZE (40)
+int print_statistics();
+int print_array();
+int find_median();
+int find_mean();
+int find_maximum();
+int find_minimum();
+int sort_array();
 
 void main() {
 
