@@ -1,5 +1,5 @@
 /******************************************************************************
- * Copyright (C) 2021 by  - Kwame Nkrumah University of Science and Technology
+ * Copyright (C) 2021 by Kwabena Obeng-Yeboah - Kwame Nkrumah University of Science and Technology
  *
  * Redistribution, modification or use of this software in source or binary
  * forms is permitted as long as the files maintain this copyright.
